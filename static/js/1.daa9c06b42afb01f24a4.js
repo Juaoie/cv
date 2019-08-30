@@ -1,0 +1,2 @@
+webpackJsonp([1],{G8b4:function(t,e){},mVtR:function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var o={render:function(){var t=this.$createElement;return(this._self._c||t)("div",[this._v("404页面没有找到哦》。。。")])},staticRenderFns:[]};var r=n("VU/8")({name:"NotFound",components:{},data:function(){return{}},mounted:function(){},methods:{}},o,!1,function(t){n("G8b4")},"data-v-32709437",null);e.default=r.exports}});
+//# sourceMappingURL=1.daa9c06b42afb01f24a4.js.map

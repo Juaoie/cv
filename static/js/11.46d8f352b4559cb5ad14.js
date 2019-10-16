@@ -1,2 +1,0 @@
-webpackJsonp([11],{"4RF+":function(t,e){},mVtR:function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var o={render:function(){var t=this.$createElement;return(this._self._c||t)("div",{staticStyle:{color:"#fff"}},[this._v("404页面没有找到哦》。。。")])},staticRenderFns:[]};var r=n("VU/8")({name:"NotFound",components:{},data:function(){return{}},mounted:function(){},methods:{}},o,!1,function(t){n("4RF+")},"data-v-07d7f35d",null);e.default=r.exports}});
-//# sourceMappingURL=11.46d8f352b4559cb5ad14.js.map

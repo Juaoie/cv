@@ -1,2 +1,0 @@
-webpackJsonp([0],{cB1C:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement,t=this._self._c||e;return t("div",[this._v("\n  home页面\n  "),t("br"),this._v(" "),t("router-view")],1)},staticRenderFns:[]};var u=n("VU/8")({name:"home",mounted:function(){this.$router.push("/home/user/Add")}},r,!1,function(e){n("wOR4")},null,null);t.default=u.exports},wOR4:function(e,t){}});
-//# sourceMappingURL=0.4edfad6709021947f016.js.map

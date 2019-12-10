@@ -1,0 +1,294 @@
+{
+  "rspCode": "200",
+  "rspMsg": "成功",
+  "data": [
+    {
+      "shopId": "BeiJing-1100-88984853-20191025143903569-SOCIAL",
+      "shopName": "ddd",
+      "shopType": "SOCIAL",
+      "userId": "15312321231",
+      "userName": "张家界",
+      "branchCompanyName": "北京分公司销售组织",
+      "shopStatus": "OPEN"
+    },
+    {
+      "shopId": "BeiJing-1100-57206520-20191025155609114-SOCIAL",
+      "shopName": "chen士大夫",
+      "shopType": "SOCIAL",
+      "userId": "1531232123",
+      "userName": "陈",
+      "branchCompanyName": "北京分公司销售组织",
+      "shopStatus": "CLOSE"
+    },
+    {
+      "shopId": "BeiJing-1100-23482949-20191028162131662-PRIVATE",
+      "shopName": "士大夫",
+      "shopType": "PRIVATE",
+      "userId": "士大夫",
+      "userName": "士大夫",
+      "branchCompanyName": "北京分公司销售组织",
+      "shopStatus": "LAJI"
+    },
+    {
+      "shopId": "BeiJing-1100-42028087-20191028164311295-PRIVATE",
+      "shopName": "是打发第三方",
+      "shopType": "PRIVATE",
+      "userId": "士大夫手打两份",
+      "userName": "十大减肥了",
+      "branchCompanyName": "北京分公司销售组织",
+      "shopStatus": "OPEN"
+    },
+    {
+      "shopId": "BeiJing-1100-88984853-20191025143903569-SOCIAL",
+      "shopName": "ddd",
+      "shopType": "SOCIAL",
+      "userId": "15312321231",
+      "userName": "张家界",
+      "branchCompanyName": "北京分公司销售组织",
+      "shopStatus": "OPEN"
+    },
+    {
+      "shopId": "BeiJing-1100-57206520-20191025155609114-SOCIAL",
+      "shopName": "chen士大夫",
+      "shopType": "SOCIAL",
+      "userId": "1531232123",
+      "userName": "陈",
+      "branchCompanyName": "北京分公司销售组织",
+      "shopStatus": "CLOSE"
+    },
+    {
+      "shopId": "BeiJing-1100-23482949-20191028162131662-PRIVATE",
+      "shopName": "士大夫",
+      "shopType": "PRIVATE",
+      "userId": "士大夫",
+      "userName": "士大夫",
+      "branchCompanyName": "北京分公司销售组织",
+      "shopStatus": "OPEN"
+    },
+    {
+      "shopId": "BeiJing-1100-42028087-20191028164311295-PRIVATE",
+      "shopName": "是打发第三方",
+      "shopType": "PRIVATE",
+      "userId": "士大夫手打两份",
+      "userName": "十大减肥了",
+      "branchCompanyName": "北京分公司销售组织",
+      "shopStatus": "OPEN"
+    },
+    {
+      "shopId": "BeiJing-1100-88984853-20191025143903569-SOCIAL",
+      "shopName": "ddd",
+      "shopType": "SOCIAL",
+      "userId": "15312321231",
+      "userName": "张家界",
+      "branchCompanyName": "北京分公司销售组织",
+      "shopStatus": "OPEN"
+    },
+    {
+      "shopId": "BeiJing-1100-57206520-20191025155609114-SOCIAL",
+      "shopName": "chen士大夫",
+      "shopType": "SOCIAL",
+      "userId": "1531232123",
+      "userName": "陈",
+      "branchCompanyName": "北京分公司销售组织",
+      "shopStatus": "CLOSE"
+    },
+    {
+      "shopId": "BeiJing-1100-23482949-20191028162131662-PRIVATE",
+      "shopName": "士大夫",
+      "shopType": "PRIVATE",
+      "userId": "士大夫",
+      "userName": "士大夫",
+      "branchCompanyName": "北京分公司销售组织",
+      "shopStatus": "OPEN"
+    },
+    {
+      "shopId": "BeiJing-1100-42028087-20191028164311295-PRIVATE",
+      "shopName": "是打发第三方",
+      "shopType": "PRIVATE",
+      "userId": "士大夫手打两份",
+      "userName": "十大减肥了",
+      "branchCompanyName": "北京分公司销售组织",
+      "shopStatus": "OPEN"
+    },
+    {
+      "shopId": "BeiJing-1100-88984853-20191025143903569-SOCIAL",
+      "shopName": "ddd",
+      "shopType": "SOCIAL",
+      "userId": "15312321231",
+      "userName": "张家界",
+      "branchCompanyName": "北京分公司销售组织",
+      "shopStatus": "OPEN"
+    },
+    {
+      "shopId": "BeiJing-1100-57206520-20191025155609114-SOCIAL",
+      "shopName": "chen士大夫",
+      "shopType": "SOCIAL",
+      "userId": "1531232123",
+      "userName": "陈",
+      "branchCompanyName": "北京分公司销售组织",
+      "shopStatus": "CLOSE"
+    },
+    {
+      "shopId": "BeiJing-1100-23482949-20191028162131662-PRIVATE",
+      "shopName": "士大夫",
+      "shopType": "PRIVATE",
+      "userId": "士大夫",
+      "userName": "士大夫",
+      "branchCompanyName": "北京分公司销售组织",
+      "shopStatus": "OPEN"
+    },
+    {
+      "shopId": "BeiJing-1100-42028087-20191028164311295-PRIVATE",
+      "shopName": "是打发第三方",
+      "shopType": "PRIVATE",
+      "userId": "士大夫手打两份",
+      "userName": "十大减肥了",
+      "branchCompanyName": "北京分公司销售组织",
+      "shopStatus": "OPEN"
+    },
+    {
+      "shopId": "BeiJing-1100-88984853-20191025143903569-SOCIAL",
+      "shopName": "ddd",
+      "shopType": "SOCIAL",
+      "userId": "15312321231",
+      "userName": "张家界",
+      "branchCompanyName": "北京分公司销售组织",
+      "shopStatus": "OPEN"
+    },
+    {
+      "shopId": "BeiJing-1100-57206520-20191025155609114-SOCIAL",
+      "shopName": "chen士大夫",
+      "shopType": "SOCIAL",
+      "userId": "1531232123",
+      "userName": "陈",
+      "branchCompanyName": "北京分公司销售组织",
+      "shopStatus": "CLOSE"
+    },
+    {
+      "shopId": "BeiJing-1100-23482949-20191028162131662-PRIVATE",
+      "shopName": "士大夫",
+      "shopType": "PRIVATE",
+      "userId": "士大夫",
+      "userName": "士大夫",
+      "branchCompanyName": "北京分公司销售组织",
+      "shopStatus": "OPEN"
+    },
+    {
+      "shopId": "BeiJing-1100-42028087-20191028164311295-PRIVATE",
+      "shopName": "是打发第三方",
+      "shopType": "PRIVATE",
+      "userId": "士大夫手打两份",
+      "userName": "十大减肥了",
+      "branchCompanyName": "北京分公司销售组织",
+      "shopStatus": "OPEN"
+    },
+    {
+      "shopId": "BeiJing-1100-88984853-20191025143903569-SOCIAL",
+      "shopName": "ddd",
+      "shopType": "SOCIAL",
+      "userId": "15312321231",
+      "userName": "张家界",
+      "branchCompanyName": "北京分公司销售组织",
+      "shopStatus": "OPEN"
+    },
+    {
+      "shopId": "BeiJing-1100-57206520-20191025155609114-SOCIAL",
+      "shopName": "chen士大夫",
+      "shopType": "SOCIAL",
+      "userId": "1531232123",
+      "userName": "陈",
+      "branchCompanyName": "北京分公司销售组织",
+      "shopStatus": "CLOSE"
+    },
+    {
+      "shopId": "BeiJing-1100-23482949-20191028162131662-PRIVATE",
+      "shopName": "士大夫",
+      "shopType": "PRIVATE",
+      "userId": "士大夫",
+      "userName": "士大夫",
+      "branchCompanyName": "北京分公司销售组织",
+      "shopStatus": "OPEN"
+    },
+    {
+      "shopId": "BeiJing-1100-42028087-20191028164311295-PRIVATE",
+      "shopName": "是打发第三方",
+      "shopType": "PRIVATE",
+      "userId": "士大夫手打两份",
+      "userName": "十大减肥了",
+      "branchCompanyName": "北京分公司销售组织",
+      "shopStatus": "OPEN"
+    },
+    {
+      "shopId": "BeiJing-1100-88984853-20191025143903569-SOCIAL",
+      "shopName": "ddd",
+      "shopType": "SOCIAL",
+      "userId": "15312321231",
+      "userName": "张家界",
+      "branchCompanyName": "北京分公司销售组织",
+      "shopStatus": "OPEN"
+    },
+    {
+      "shopId": "BeiJing-1100-57206520-20191025155609114-SOCIAL",
+      "shopName": "chen士大夫",
+      "shopType": "SOCIAL",
+      "userId": "1531232123",
+      "userName": "陈",
+      "branchCompanyName": "北京分公司销售组织",
+      "shopStatus": "CLOSE"
+    },
+    {
+      "shopId": "BeiJing-1100-23482949-20191028162131662-PRIVATE",
+      "shopName": "士大夫",
+      "shopType": "PRIVATE",
+      "userId": "士大夫",
+      "userName": "士大夫",
+      "branchCompanyName": "北京分公司销售组织",
+      "shopStatus": "OPEN"
+    },
+    {
+      "shopId": "BeiJing-1100-42028087-20191028164311295-PRIVATE",
+      "shopName": "是打发第三方",
+      "shopType": "PRIVATE",
+      "userId": "士大夫手打两份",
+      "userName": "十大减肥了",
+      "branchCompanyName": "北京分公司销售组织",
+      "shopStatus": "OPEN"
+    },
+    {
+      "shopId": "BeiJing-1100-88984853-20191025143903569-SOCIAL",
+      "shopName": "ddd",
+      "shopType": "SOCIAL",
+      "userId": "15312321231",
+      "userName": "张家界",
+      "branchCompanyName": "北京分公司销售组织",
+      "shopStatus": "OPEN"
+    },
+    {
+      "shopId": "BeiJing-1100-57206520-20191025155609114-SOCIAL",
+      "shopName": "chen士大夫",
+      "shopType": "SOCIAL",
+      "userId": "1531232123",
+      "userName": "陈",
+      "branchCompanyName": "北京分公司销售组织",
+      "shopStatus": "CLOSE"
+    },
+    {
+      "shopId": "BeiJing-1100-23482949-20191028162131662-PRIVATE",
+      "shopName": "士大夫",
+      "shopType": "PRIVATE",
+      "userId": "士大夫",
+      "userName": "士大夫",
+      "branchCompanyName": "北京分公司销售组织",
+      "shopStatus": "OPEN"
+    },
+    {
+      "shopId": "BeiJing-1100-42028087-20191028164311295-PRIVATE",
+      "shopName": "是打发第三方",
+      "shopType": "PRIVATE",
+      "userId": "士大夫手打两份",
+      "userName": "十大减肥了",
+      "branchCompanyName": "北京分公司销售组织",
+      "shopStatus": "OPEN"
+    }
+  ]
+}

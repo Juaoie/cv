@@ -1,0 +1,116 @@
+{
+    "rspCode": "200",
+    "rspMsg": "成功",
+    "data": [
+        {
+            "inventoryId": "2382128382737231390",
+            "systemMaterialId": "191438294837272864",
+            "scmMaterialId": "1010324400032",
+            "material": "iPhone 11 黑色+128GB",
+            "materialGroup": "iPhone 11",
+            "inventoryNum": "10",
+            "inventoryTotalPrice": "76990",
+            "inventoryPeople": "徐大大",
+            "inventoryTime": "2019-11-19 12:00:00"
+        },
+        {
+            "inventoryId": "2382128382737231390",
+            "systemMaterialId": "191438294837272864",
+            "scmMaterialId": "1010324400032",
+            "material": "iPhone 11 黑色+128GB",
+            "materialGroup": "iPhone 11",
+            "inventoryNum": "10",
+            "inventoryTotalPrice": "76990",
+            "inventoryPeople": "徐大大",
+            "inventoryTime": "2019-11-19 12:00:00"
+        },
+        {
+            "inventoryId": "2382128382737231390",
+            "systemMaterialId": "191438294837272864",
+            "scmMaterialId": "1010324400032",
+            "material": "iPhone 11 黑色+128GB",
+            "materialGroup": "iPhone 11",
+            "inventoryNum": "10",
+            "inventoryTotalPrice": "76990",
+            "inventoryPeople": "徐大大",
+            "inventoryTime": "2019-11-19 12:00:00"
+        },
+        {
+            "inventoryId": "2382128382737231390",
+            "systemMaterialId": "191438294837272864",
+            "scmMaterialId": "1010324400032",
+            "material": "iPhone 11 黑色+128GB",
+            "materialGroup": "iPhone 11",
+            "inventoryNum": "10",
+            "inventoryTotalPrice": "76990",
+            "inventoryPeople": "徐大大",
+            "inventoryTime": "2019-11-19 12:00:00"
+        },
+        {
+            "inventoryId": "2382128382737231390",
+            "systemMaterialId": "191438294837272864",
+            "scmMaterialId": "1010324400032",
+            "material": "iPhone 11 黑色+128GB",
+            "materialGroup": "iPhone 11",
+            "inventoryNum": "10",
+            "inventoryTotalPrice": "76990",
+            "inventoryPeople": "徐大大",
+            "inventoryTime": "2019-11-19 12:00:00"
+        },
+        {
+            "inventoryId": "2382128382737231390",
+            "systemMaterialId": "191438294837272864",
+            "scmMaterialId": "1010324400032",
+            "material": "iPhone 11 黑色+128GB",
+            "materialGroup": "iPhone 11",
+            "inventoryNum": "10",
+            "inventoryTotalPrice": "76990",
+            "inventoryPeople": "徐大大",
+            "inventoryTime": "2019-11-19 12:00:00"
+        },
+        {
+            "inventoryId": "2382128382737231390",
+            "systemMaterialId": "191438294837272864",
+            "scmMaterialId": "1010324400032",
+            "material": "iPhone 11 黑色+128GB",
+            "materialGroup": "iPhone 11",
+            "inventoryNum": "10",
+            "inventoryTotalPrice": "76990",
+            "inventoryPeople": "徐大大",
+            "inventoryTime": "2019-11-19 12:00:00"
+        },
+        {
+            "inventoryId": "2382128382737231390",
+            "systemMaterialId": "191438294837272864",
+            "scmMaterialId": "1010324400032",
+            "material": "iPhone 11 黑色+128GB",
+            "materialGroup": "iPhone 11",
+            "inventoryNum": "10",
+            "inventoryTotalPrice": "76990",
+            "inventoryPeople": "徐大大",
+            "inventoryTime": "2019-11-19 12:00:00"
+        },
+        {
+            "inventoryId": "2382128382737231390",
+            "systemMaterialId": "191438294837272864",
+            "scmMaterialId": "1010324400032",
+            "material": "iPhone 11 黑色+128GB",
+            "materialGroup": "iPhone 11",
+            "inventoryNum": "10",
+            "inventoryTotalPrice": "76990",
+            "inventoryPeople": "徐大大",
+            "inventoryTime": "2019-11-19 12:00:00"
+        },
+        {
+            "inventoryId": "2382128382737231390",
+            "systemMaterialId": "191438294837272864",
+            "scmMaterialId": "1010324400032",
+            "material": "iPhone 11 黑色+128GB",
+            "materialGroup": "iPhone 11",
+            "inventoryNum": "10",
+            "inventoryTotalPrice": "76990",
+            "inventoryPeople": "徐大大",
+            "inventoryTime": "2019-11-19 12:00:00"
+        }
+    ]
+}
